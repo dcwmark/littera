@@ -1,3 +1,1 @@
-# lingua
-# littera
 # littera
